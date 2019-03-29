@@ -1,0 +1,17 @@
+{
+  "name": "foodora",
+  "version": "1.0.0",
+  "description": "foodora test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "peter.nguyentr",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "codeceptjs": "^2.0.8",
+    "puppeteer": "^1.14.0"
+  }
+}
